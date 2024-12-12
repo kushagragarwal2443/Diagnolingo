@@ -2,16 +2,16 @@ import { Redirect } from "expo-router";
 import { initializeApp } from "firebase/app";
 import { initializeAuth, getReactNativePersistence } from 'firebase/auth';
 import ReactNativeAsyncStorage from '@react-native-async-storage/async-storage';
-import { FIREBASE_API_KEY, FIREBASE_MESSAGING_SENDER_ID, FIREBASE_APP_ID } from '@env'; 
+// import { FIREBASE_API_KEY, FIREBASE_MESSAGING_SENDER_ID, FIREBASE_APP_ID } from '@env'; 
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: FIREBASE_API_KEY,
+  apiKey: "AIzaSyDj0JQ0oVMMe7xKLiPa3r9VQsv9gKNSeQQ",
   authDomain: "diagnolingo.firebaseapp.com",
   projectId: "diagnolingo",
   storageBucket: "diagnolingo.appspot.com",
-  messagingSenderId: FIREBASE_MESSAGING_SENDER_ID,
-  appId: FIREBASE_APP_ID,
+  messagingSenderId: "865609574821",
+  appId: "1:865609574821:web:276e001a6af923d9d5a04c",
 };
 
 // Initialize Firebase

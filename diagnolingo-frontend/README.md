@@ -1,6 +1,6 @@
 # Readme
 
-- Ensure that "secrets" directory exists
+- Ensure that "secrets" and "app/index.tsx" exist
 
 ## Logging Legend
 

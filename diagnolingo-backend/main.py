@@ -9,7 +9,7 @@ from firebase_admin import credentials
 
 # Check if Firebase app is already initialized to avoid re-initialization
 if not firebase_admin._apps:
-    cred = credentials.Certificate("secrets/diagnolingo-firebase-adminsdk-31t5c-4b5048a2e2.json")
+    cred = credentials.Certificate("secrets/diagnolingo-firebase-adminsdk-31t5c-13632601e6.json")
     firebase_admin.initialize_app(cred, {"storageBucket": "diagnolingo.appspot.com"})
 
 # Import routers after Firebase initialization
