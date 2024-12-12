@@ -166,4 +166,4 @@ audio_uploads/
 *.DS_Store
 .vscode/
 vectorstores/
-# secrets/
+secrets/
