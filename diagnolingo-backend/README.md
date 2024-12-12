@@ -1,7 +1,7 @@
 # diagnolingo-backend
 
 - Ensure that "vectorstores" and "secrets" directories exist
-- conda activate github_diagnolingo
+- conda activate github_diagnolingo (or env whatever you have named it)
 - `uvicorn main:app --host 0.0.0.0 --port 8000 --reload`
  
 If this gives package not found error do
