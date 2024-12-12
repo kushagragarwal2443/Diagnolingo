@@ -1,0 +1,81 @@
+Doctor: Hello George, how are you? I heard you came here because of numbness and tingling in your wrist and fingers?
+
+Patient: Yes, my left wrist has been hurting a bit for a few months now. There's pain and numbness.
+
+Doctor: Okay, and you said it's been a few months. Did the pain start gradually on its own?
+
+Patient: Yes, it started on its own, and I feel it more at night.
+
+Doctor: I see.
+
+Patient: Sometimes I wake up at night, and my hand feels asleep, and I have to shake it to wake it up.
+
+Doctor: I see. What kind of work do you do?
+
+Patient: I work in my garden.
+
+Doctor: Farming?
+
+Patient: Yes, cutting grass and such.
+
+Doctor: So, a lot of digging and repetitive hand movements?
+
+Patient: Yes, a lot of work, a lot of effort, but the same thing every day.
+
+Doctor: I have a few questions for you. You said the pain is at night, and your hand feels asleep. Is it in all your fingers?
+
+Patient: Not in all fingers, but I feel it more in my thumb and pointer finger.
+
+Doctor: And in your little finger, the fifth one, any numbness there?
+
+Patient: Yes, sometimes it feels numb.
+
+Doctor: Any issues with your right hand?
+
+Patient: No, no problems with my right hand, only the left.
+
+Doctor: Do you drink alcohol?
+
+Patient: I have a couple of beers on Friday and Saturday weekends.
+
+Doctor: Have you ever been told you have rheumatoid arthritis in your hands or wrist?
+
+Patient: No, no one has ever told me that.
+
+Doctor: Let me do a quick physical exam. I'll check your heartbeat and lungs. I'm pressing on your hands. Do you feel this on your right hand?
+
+Patient: Yes, I feel it, but it feels strange on the thumb and pointer finger side.
+
+Doctor: I'm tapping on your right wrist. Do you feel anything?
+
+Patient: Yes, I feel a slight shock in my fingertips.
+
+Doctor: And the same on your left hand?
+
+Patient: Yes, the same.
+
+Doctor: It seems like you have bilateral positive Tinel's symptoms. I think your diagnosis is bilateral carpal tunnel syndrome. We often see this in people who do repetitive motions and heavy labor. Based on your clinical exam and history, it seems like carpal tunnel syndrome. I'll recommend an EMG test to measure the electrical impulses in your fingers. We'll follow up, but for treatment, we need to modify for carpal tunnel syndrome. I know you're a farmer, but can you reduce your work for a while?
+
+Patient: Yes, I can distribute some work to my other employees.
+
+Doctor: That would be good. Avoid repetitive motions for a few weeks. I'll give you a wrist splint to wear, and I'll prescribe ibuprofen 600 mg every 6 hours. I'd like to see you again in two weeks. If there are no changes, we might need surgery to release the pressure on the nerves. Does this sound okay?
+
+Patient: Yes, it sounds good for a start.
+
+Doctor: Off the record, what kind of farming do you do?
+
+Patient: Mostly yard work and maintaining flower beds. We don't grow anything, just maintain.
+
+Doctor: I was looking for someone for backyard remodeling. If you know anyone who can help, let me know.
+
+Patient: Yes, sure.
+
+Doctor: We can explore that. We haven't done it in a while because we've been busy, but we can consider it.
+
+Doctor: I'll call my nurse to discharge you. Any other questions?
+
+Patient: No, everything is clear. Thank you very much.
+
+Doctor: Take care, and I'll see you in two weeks.
+
+Patient: Yes, thank you for your time

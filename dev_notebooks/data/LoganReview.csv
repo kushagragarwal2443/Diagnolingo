@@ -1,0 +1,744 @@
+conversation,note,ehr,logs
+"[doctor] hey george how are you today i understand you're here for some numbness and tingling in your fingers and some pain in your wrist
+[patient] right my left wrist and hand has been bothering me probably for a few months now with pain and numbness
+[doctor] okay and you said that's been ongoing for several months do you know what caused this type of pain or is it just something that started slowly or
+[patient] it just kinda started on it's own it i notice it mostly at night
+[doctor] okay
+[patient] sometimes it will i'll wake up and my hands asleep and i got ta shake it out
+[doctor] shake it out and okay
+[patient] and then some
+[doctor] what kind of work do you do
+[patient] i do yard work
+[doctor] yard work
+[patient] landscaping landscaping
+[doctor] landscaping okay so a lot of raking a lot of digging so a lot of repetitive type movements
+[patient] yeah it's pretty heavy labor but it's yeah the same thing day in and day out
+[doctor] okay okay just a couple questions for you you did say that you have the pain at night in that and you have to you get that numbness into the hand is it in all the fingers
+[patient] yeah it seems to happen to all my fingers but i notice it more in my thumb and pointer finger
+[doctor] okay okay and anything into that little into your fifth finger your little finger any numbness there at times no
+[patient] sometimes yeah it seems like it's numb too
+[doctor] okay what about your right hand any problems with that hand
+[patient] no i do n't seem to have any problems with my right hand so far it's just mostly my left
+[doctor] okay okay good and just a couple you know do you how do you have many or do you drink often do you have you know many any alcohol consumption
+[patient] i drink usually a a beer or two on fridays and saturdays on the weekends
+[doctor] okay and do you have any evidence of any anybody ever said that you had some rheumatoid arthritis in your hand or wrist anything like that
+[patient] no nobody say anything like that so i mean
+[doctor] okay okay good so let me go ahead and do a physical exam here real quick and you know i'm gon na quickly just listen to your heart and lungs okay that's good i'd like you to squeeze i'm gon na hold your hands here and i'd like you to squeeze both hands
+[patient] okay
+[doctor] you seem a little bit weaker on that left hand is that what you've noticed
+[patient] yeah i i i experienced some weakness in my left hand
+[doctor] okay do you you find that you're dropping things when you're picking it up is it to that level or
+[patient] yeah i drop things mostly because i have a hard time feeling it
+[doctor] okay okay good and so you you do have a a grip strength is less on the left and i just wan na touch your fingers here on the on the right side you can feel me touching all the fingers on the right
+[patient] yeah i can i can say you touch me but it feels a little more weird on the thumb side than my pointer finger side
+[doctor] okay okay and i wan na turn your wrist over here and turn your hand over and i'm gon na go ahead and tap on the right wrist on the back here does that do anything when i do that
+[patient] i still i feel a little jolt or a zing in my finger tips
+[doctor] okay and then when i do that on the left side
+[patient] yeah same thing
+[doctor] same thing okay so you do have a bilateral positive tinel's sign so so here's here's where i'm at i think your your diagnosis is beginning to have some bilateral carpal tunnel syndrome usually we see that with repetitive actions such as the landscaping the heavy labor and you you know your your clinical exam and and history sound like it's a carpal tunnel syndrome i do want to order so where are we gon na go from here i would like to order a a study it's called an emg where it it measures some of that electrical impulses down into your fingers we will follow up with that but as far as your treatment so the treatment for carpal tunnel syndrome is really some activity modification now i know you are a landscaper is there any way that you could be work to have some lighter work during the time
+[patient] i suppose i could try to pass it off to some of my other employes and delegate
+[doctor] okay that would be good so that's i i just want you to kinda eliminate that the active repetitive motions that you're doing all the time just for a couple weeks i'm also gon na give you a wrist splint to wear and that should help and i'd like you to take ibuprofen six hundred milligrams every six hours and then i wan na see you back here in the office in two weeks and in that two week period i think we're gon na see if there's need for any other intervention if i need to do more diagnostic testing or if there is a possibly looking at a surgical intervention to release that pressure that's on the nerves in that hand does that sound like a a good plan for you
+[patient] yeah it sounds like a good first start
+[doctor] okay okay so i i just just off off the record here what kind of what do what do you specialize in landscaping is your company do
+[patient] mostly like yard work and maintenance flower beds not really designing just up keep
+[doctor] okay yeah i'm looking for a landscape designer i need somebody to put in some elaborate walkways back through the backyard so yeah we can do stuff like that i mean if you have an idea what you want i think that's easy
+[patient] okay
+[doctor] you know if you're looking for like some
+[patient] backyard elasis rehab remodel that's i mean i suppose we could do we have n't done things like that in a while because we're busy enough with just the up key but it's something to explore
+[doctor] okay yeah i may have to keep that in mind because i do wan na do some of that so let's listen i'm gon na get my my nurse in here to discharge you do you have any other questions for me before we end this
+[patient] no i think it's all clear i appreciate it
+[doctor] okay take care and i'll look forward to see you in two weeks
+[patient] very good appreciate your time","CHIEF COMPLAINT
+
+Left wrist and hand pain.
+
+HISTORY OF PRESENT ILLNESS
+
+George Lewis is a pleasant 57-year-old male who presents to the clinic today for evaluation of left wrist and hand pain. He reports an onset of a few months ago but denies any specific injury. However, the patient notes he often engages in repetitive motions while performing his work duties. His symptoms are worse at night, and he wakes with numbness in the bilateral hands. He experiences numbness in all fingers, but states it is the most noticeable in the left thumb and index finger. He affirms intermittent numbness in the left little finger. For relief, he shakes his hands upon waking. The patient also experiences weakness in his left hand. He reports he drops objects and explains “I have a hard time feeling it.”
+
+MEDICAL HISTORY
+
+The patient denies a history of rheumatoid arthritis.
+
+SOCIAL HISTORY
+
+He works in landscaping. He reports consuming 1 to 2 beers on weekends.
+
+REVIEW OF SYSTEMS
+
+Musculoskeletal: Reports left wrist and hand pain. Denies right hand pain.
+Neurological: Reports numbness in bilateral hands and fingers, and left hand weakness.
+
+PHYSICAL EXAM
+
+NEURO: Decreased sensation in the right thumb and index finger.
+MSK: Examination of the bilateral hands: Grip strength is less on the left in comparison to the right. Positive Tinel sign bilaterally.
+
+ASSESSMENT
+
+Bilateral carpal tunnel syndrome.
+
+PLAN
+
+After reviewing the patient's clinical history and examination today, I have had a lengthy discussion with him regarding treatment options for his current symptoms. I discussed the importance of activity modification and encouraged the patient to limit active repetitive motions while working for the next 2 weeks. I also recommended that he wear a wrist splint to provide increased support. I advised him to take ibuprofen 600 mg every 6 hours. Additionally, I recommended we obtain an EMG of the bilateral upper extremities to evaluate for carpal tunnel syndrome. The patient will follow up with me in 2 weeks when the EMG results are available for review. If at that time his symptoms have not improved with these conservative measures, we will discuss further treatment options including additional diagnostic testing or possible surgical intervention.
+
+The patient states he understands and is in agreement with the plan. All questions were answered to the patient's satisfaction.
+
+INSTRUCTIONS
+
+The patient will follow up with me in 2 weeks.","{'Subjective': {'Chief complaint': ['Numbness and tingling in left fingers', 'Pain in left wrist'], 'History of present illness': ['Symptoms have been ongoing for a few months', 'Noticed mostly at night', 'Wakes up with hands asleep, needs to shake them out', 'Weakness in left hand, difficulty feeling objects, drops things'], 'Past social history': ['Works in landscaping, involving heavy labor and repetitive movements', 'Occasional alcohol consumption (1-2 beers on weekends)']}, 'Objective': {'Vital signs': [], 'Physical exam findings': ['Weaker grip strength in left hand', ""Bilateral positive Tinel's sign"", 'Altered sensation in left thumb and pointer finger'], 'Laboratory data': [], 'Imaging results': [], 'Other diagnostic data': []}, 'Assessment': {'Diagnosis': ['Bilateral carpal tunnel syndrome']}, 'Plan': {'Tests': ['Order EMG to measure electrical impulses in fingers'], 'Referrals': [], 'Medications': [{'Name': 'Ibuprofen', 'Dosage': '600 mg', 'Route': 'Oral', 'Frequency': 'Every 6 hours'}], 'Instructions': ['Activity modification: reduce repetitive motions', 'Wear wrist splint', 'Follow up in 2 weeks to reassess and consider further intervention']}, 'Codes': {'Tests': {'Order EMG to measure electrical impulses in fingers': []}, 'Medications': {'Ibuprofen, 600 mg': ['182181089', '904585361', '904585461']}, 'Diagnosis': {'Bilateral carpal tunnel syndrome': ['G5603', 'G5600']}}}","Tokens used for SOAP generation: 1777, 352, 2129
+
+ ############################ RAG for Tests ################################
+
+Human: Find the CPT codes corresponding to the following test: Order EMG to measure electrical impulses in fingers Instruction: Only use the following returned documents to get the CPT codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: 96002
+DESCRIPTION: Dynamic surface emg ### CODE: 96003
+DESCRIPTION: Dynamic fine wire emg ### CODE: 97032
+DESCRIPTION: Electrical stimulation ### CODE: G0283
+DESCRIPTION: Elec stim other than wound
+
+Tokens used for Tests: 149, 2, 151
+
+ ############################ RAG for Diagnosis ################################
+
+Human: Find the ICD-10 code corresponding to the following diagnosis: Bilateral carpal tunnel syndrome Instruction: Only use the following returned documents to get the ICD codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: G5603
+DESCRIPTION: Carpal tunnel syndrome; bilateral upper limbs ### CODE: G5600
+DESCRIPTION: Carpal tunnel syndrome; unspecified upper limb ### CODE: G5602
+DESCRIPTION: Carpal tunnel syndrome; left upper limb ### CODE: G5601
+DESCRIPTION: Carpal tunnel syndrome; right upper limb
+
+Tokens used for Diagnosis: 163, 6, 169
+
+ ############################ RAG for Medications ################################
+
+Human: Find the NDC codes corresponding to the following drug: Ibuprofen, 600 mg Instruction: Only use the following returned documents to get the NDC codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### DRUG: Ibupro
+NDC: 904585361 ### DRUG: Ibuprofen
+NDC: 182181089 ### DRUG: ibuprofen
+NDC: 904585361 ### DRUG: Ibup
+NDC: 904585461
+
+Tokens used for Drugs: 151, 11, 162
+
+ ############################ Finished ################################
+
+Total Tokens used: 2240, 371, 2611"
+"[doctor] hi billy how are you what's been going on the medical assistant told me that you're having some difficulty urinating
+[patient] yeah yeah i i did n't really wan na come in to talk about it's kinda weird but i think probably over the last six months i'm just not peeing right it just does n't seem to be normal
+[doctor] okay so let's talk a little bit about that now is your is your stream is your urination stream weak
+[patient] yeah i'd probably say so
+[doctor] okay and do you feel like you're emptying your bladder fully or do you feel like you still have some urine left in there when you when you finish
+[patient] most of the times i'm okay but sometimes if i stand there long enough i i can kinda go a little bit more so it's taking a while actually to just go to the bathroom
+[doctor] okay and are you waking up at night to go to the bathroom does it impact your sleep
+[patient] yeah i try to empty my bladder now right before i go to bed and and not drink anything but i'm still probably getting up three or four times a night to go to the bed
+[doctor] okay so you're getting up about three or four times a night and and how long has this been going on you said for about six months
+[patient] yeah six months to like this and it's probably been a little bit worse over the last six months and maybe it's been longer i just did n't want to bring it up
+[doctor] okay so you think it's been going on longer okay alright now how about have you had any burning when you urinate at all
+[patient] no it i do n't think it burns
+[doctor] no burning when you urinate okay and and any other any other issues any problems with your bowels any constipation issues
+[patient] hmmm no i i i had diarrhea last week but i think i ate something bad
+[doctor] okay and ever have you ever had any issues where you had what we call urinary retention where you could n't pee and you needed to have like a catheter inserted
+[patient] my gosh no
+[doctor] okay
+[patient] i'll do that
+[doctor] alright and have you ever seen a urologist i do n't think so you've been my patient for a while i do n't remember ever sending you but have you ever seen one
+[patient] i do n't think so
+[doctor] okay now tell me how are you doing with your with your heart when was the last time you saw doctor moore the cardiologist i know that you had the the stent placed in your right coronary artery about what was that twenty eighteen
+[patient] yeah sounds about right i think i just saw him in november he said everything was okay
+[doctor] he said everything was okay alright and so you have n't had any chest pain or shortness of breath you're still walking around doing your activities of daily living are you exercising
+[patient] kind of
+[doctor] kind of okay now from what i remember i remember you being a big college football fan are you as excited as i am that georgia beat alabama in the national championships
+[patient] yeah yeah i'm super excited
+[doctor] you do n't really seem that excited
+[patient] get the problem fixed because i have to be able to sit there and watch the whole game
+[doctor] yeah i i really do n't like nick saving i'm so i'm super happy that that the dogs pulled it out
+[patient] i do n't know if we can do friends anymore
+[doctor] are you in alabama fan
+[patient] maybe i'm actually originally not from georgia so
+[doctor] okay alright well i mean i i'm i'm a long horns fan but anyway well i digress let's talk a little bit about your diabetes how are how are you doing with your sugars are you watching your diet
+[patient] i'm trying to yeah i think they are okay
+[doctor] okay and are you still taking the metformin
+[patient] yep
+[doctor] you are okay alright now i wan na go ahead and just move on to a quick physical exam okay i'm gon na be calling out some of my exam findings and i'm gon na let you know what that means when i'm done okay alright i do have to do a rectal exam i apologize i'm just gon na be calling it out what what i what i appreciate okay so on your heart exam i do appreciate a slight three out of six systolic ejection murmur hurt at the left base on your lung exam your lungs are clear to auscultation bilaterally on your abdominal exam your abdomen is nontender and nondistended i do n't appreciate any masses or any rebound or guarding on your prostate exam i do appreciate an enlarged prostate i do n't appreciate any masses on physical exam so what what does that mean billy so that ultimately means that you know everything looks good you know you have that little heart murmur which i believe you you've had in the past but we're gon na go ahead and look into that you know your prostate seems a little bit enlarged to me on physical exam so let's talk about how we can go about and and remedy that okay so for your first problem of this you know difficulty urinating i wan na go ahead and just order some routine labs i wan na get a a psa that kind of that ultimately kinda looks for prostate cancer issues which i do n't think you have because we did n't really appreciate that on physical exam i wan na go ahead and we can try to start you on what we call flomax zero point four milligrams once a day you should take it at night because it can cause people to get a little bit dizzy if they take it in the morning so i would take it at night and i wan na go ahead and refer you to a urologist just to look into this more so we can go ahead and and get this problem solved for you okay i'm also gon na go ahead and just order some routine blood tests just to make sure that we are not missing anything do you have any questions about that and i wan na go ahead and order a urinalysis and a urine culture
+[patient] yeah so sounds good have you seen that commercial for that super batter prostate stuff does that work
+[doctor] well i think the data it's it's i'm not really sure if it works or not i'm not that familiar with it let's just go ahead and stick with flomax and that's why we are gon na refer you to the urologist so that they can go ahead and talk to you about you know the most current treatment options for you okay
+[patient] alright
+[doctor] alright for your second problem of your coronary artery disease i wan na go ahead and order an echocardiogram just to follow up on that heart murmur that you had and i wan na go ahead and continue you on the lipitor forty milligrams a day and the aspirin and the metoprolol and i wan na go ahead and order a lipid panel any questions about that
+[patient] nope
+[doctor] okay and then for your third problem of your diabetes it sounds like you're doing really well let's go ahead and continue you on the metformin a thousand milligrams twice a day we will go ahead and order a hemoglobin a1c to see if we need to make any adjustments to that and i'm gon na see you again in about three to four weeks okay i want you to call me or message me in the patient portal if you have any concerns
+[patient] alright when is the urologist gon na call me
+[doctor] i'm gon na reach out i'm gon na reach out to them now and see if they can get you in this week
+[patient] sounds good
+[doctor] okay alright well great it was good to see you bye
+[doctor] i could just hit it and i can just talk and then i'm just","CHIEF COMPLAINT
+
+Difficulty urinating.
+
+MEDICAL HISTORY
+
+Patient reports history of coronary artery disease and diabetes.
+
+SURGICAL HISTORY
+
+Patient reports undergoing right coronary arter stent placement in 2018 by Dr. Moore.
+
+SOCIAL HISTORY
+
+Patient reports that he tries to exercise. He is a college football fan.
+
+REVIEW OF SYSTEMS
+
+Cardiovascular: Denies chest pain or shortness of breath.
+Gastrointestinal: Denies change in bowel movements.
+Genitourinary: Reports difficulty urinating. Denies dysuria or urinary retention.
+
+PHYSICAL EXAM
+
+Respiratory
+- Auscultation of Lungs: Clear bilaterally.
+
+Cardiovascular
+Slight 3/6 systolic ejection murmur heard at the left base.
+
+Gastrointestinal
+- Examination of Abdomen: Nontender and nondistended. No masses, rebound or guarding.
+
+Rectal
+- Examination: Enlarged prostate appreciated. No masses appreciated.
+
+ASSESSMENT AND PLAN
+
+1. Difficulty urinating.
+- Medical Reasoning: The patient presents today with approximately a 6 month history of difficulty with urination. His prostate also felt slightly enlarged on exam today.
+- Patient Education and Counseling: The patient was advised that there were no concerning symptoms of prostate cancer appreciated on his physical exam today.
+- Medical Treatment: We will order routine labs including a PSA to rule out prostate cancer. We will also refer him to a urologist for further evaluation as well as order a urinalysis and urine culture. We will start him on Flomax 0.4 mg once at night to avoid dizziness.
+
+2. Coronary artery disease.
+- Medical Reasoning: The patient had a 3/6 systolic ejection murmur heard at the left base on exam today. This has been heard on his exams in the past.
+- Medical Treatment: We will order an echocardiogram to follow up on his murmur. We will also order a lipid panel. He will continue Lipitor 40 mg a day, aspirin and metoprolol.
+
+3. Diabetes.
+- Medical Reasoning: The patient is currently doing well with his diabetes.
+- Medical Treatment: We will continue him on metformin 1000 mg twice a day. A hemoglobin A1c will be ordered to see if any medication adjustments are needed.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.
+
+INSTRUCTIONS
+
+He will follow up in 3 to 4 weeks and is advised to call or message me in the patient portal if he has any concerns.","{'Subjective': {'Chief complaint': ['Difficulty urinating for the past six months'], 'History of present illness': ['Weak urination stream', 'Feeling of incomplete bladder emptying', 'Nocturia (3-4 times per night)', 'No burning during urination', 'Recent diarrhea attributed to food'], 'Past social history': []}, 'Objective': {'Vital signs': [], 'Physical exam findings': ['Slight 3/6 systolic ejection murmur at left base', 'Lungs clear to auscultation bilaterally', 'Abdomen nontender and nondistended', 'Enlarged prostate without masses'], 'Laboratory data': [], 'Imaging results': [], 'Other diagnostic data': []}, 'Assessment': {'Diagnosis': ['Benign prostatic hyperplasia (BPH)', 'Coronary artery disease', 'Diabetes mellitus']}, 'Plan': {'Tests': ['PSA test', 'Routine blood tests', 'Urinalysis', 'Urine culture', 'Echocardiogram', 'Lipid panel', 'Hemoglobin A1c'], 'Referrals': ['Urologist'], 'Medications': [{'Name': 'Flomax', 'Dosage': '0.4 mg', 'Route': 'Oral', 'Frequency': 'Once daily at night'}, {'Name': 'Lipitor', 'Dosage': '40 mg', 'Route': 'Oral', 'Frequency': 'Once daily'}, {'Name': 'Aspirin', 'Dosage': '', 'Route': 'Oral', 'Frequency': 'Once daily'}, {'Name': 'Metoprolol', 'Dosage': '', 'Route': 'Oral', 'Frequency': 'Once daily'}, {'Name': 'Metformin', 'Dosage': '1000 mg', 'Route': 'Oral', 'Frequency': 'Twice daily'}], 'Instructions': ['Follow up in 3-4 weeks', 'Contact via patient portal for concerns']}, 'Codes': {'Tests': {'PSA test': ['G0103'], 'Routine blood tests': [], 'Urinalysis': [], 'Urine culture': [], 'Echocardiogram': ['93320', '93321', '93304'], 'Lipid panel': ['80061', '83718', '84478', '82465'], 'Hemoglobin A1c': []}, 'Medications': {'Flomax, 0.4 mg': ['597005801', '904640161', '51079029420'], 'Lipitor, 40 mg': ['51079045620', '68084058901', '54868422900'], 'Aspirin, ': ['63739002401', '904404073', '63739052201', '17714001110'], 'Metoprolol, ': ['186109039', '51079025520', '68084030301', '378003201'], 'Metformin, 1000 mg': ['50268053115', '51079097220']}, 'Diagnosis': {'Benign prostatic hyperplasia (BPH)': ['N401', 'N400'], 'Coronary artery disease': ['I2584', 'I25700', 'I2081'], 'Diabetes mellitus': ['E0840', 'E1040', 'E088', 'E0841']}}}","Tokens used for SOAP generation: 2053, 529, 2582
+
+ ############################ RAG for Tests ################################
+
+Human: Find the CPT codes corresponding to the following test: PSA test Instruction: Only use the following returned documents to get the CPT codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: G0103
+DESCRIPTION: PSA screening ### CODE: G0103
+DESCRIPTION: Psa screening ### CODE: 71250
+DESCRIPTION: Ct thorax dx c- ### CODE: 75571
+DESCRIPTION: Ct hrt w/o dye w/ca test
+
+Tokens used for Tests: 146, 3, 149
+
+Human: Find the CPT codes corresponding to the following test: Routine blood tests Instruction: Only use the following returned documents to get the CPT codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: 36415
+DESCRIPTION: Routine venipuncture ### CODE: 82950
+DESCRIPTION: Glucose test [only when billed with ICD-10-CM code Z13.1] ### CODE: 82951
+DESCRIPTION: Glucose tolerance test (GTT) [only when billed with ICD-10-CM code Z13.1] ### CODE: 75571
+DESCRIPTION: Ct hrt w/o dye w/ca test
+
+Tokens used for Tests: 184, 2, 186
+
+Human: Find the CPT codes corresponding to the following test: Urinalysis Instruction: Only use the following returned documents to get the CPT codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: P9612
+DESCRIPTION: Catheterize for urine spec ### CODE: G0480
+DESCRIPTION: Drug test def 1-7 classes ### CODE: P9615
+DESCRIPTION: Urine specimen collect mult ### CODE: G0482
+DESCRIPTION: Drug test def 15-21 classes
+
+Tokens used for Tests: 153, 2, 155
+
+Human: Find the CPT codes corresponding to the following test: Urine culture Instruction: Only use the following returned documents to get the CPT codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: P9612
+DESCRIPTION: Catheterize for urine spec ### CODE: P9615
+DESCRIPTION: Urine specimen collect mult ### CODE: U0002
+DESCRIPTION: Covid-19 lab test non-cdc ### CODE: 51798
+DESCRIPTION: Us urine capacity measure
+
+Tokens used for Tests: 149, 2, 151
+
+Human: Find the CPT codes corresponding to the following test: Echocardiogram Instruction: Only use the following returned documents to get the CPT codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: 93320
+DESCRIPTION: Doppler echo exam heart [if used in conjunction with 93303-93304] ### CODE: 93321
+DESCRIPTION: Doppler echo exam heart [if used in conjunction with 93303; 93304; 93308] ### CODE: 93304
+DESCRIPTION: Echo transthoracic ### CODE: 76999
+DESCRIPTION: Echo examination procedure
+
+Tokens used for Tests: 175, 8, 183
+
+Human: Find the CPT codes corresponding to the following test: Lipid panel Instruction: Only use the following returned documents to get the CPT codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: 80061
+DESCRIPTION: Lipid panel [only when billed with ICD-10-CM code  Z13.6] ### CODE: 83718
+DESCRIPTION: Assay of lipoprotein [only when billed with ICD-10-CM code Z13.6] ### CODE: 84478
+DESCRIPTION: Assay of triglycerides [only when billed with ICD-10-CM code Z13.6] ### CODE: 82465
+DESCRIPTION: Assay bld/serum cholesterol [only when billed with ICD-10-CM code Z13.6]
+
+Tokens used for Tests: 213, 11, 224
+
+Human: Find the CPT codes corresponding to the following test: Hemoglobin A1c Instruction: Only use the following returned documents to get the CPT codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: 82950
+DESCRIPTION: Glucose test [only when billed with ICD-10-CM code Z13.1] ### CODE: 82951
+DESCRIPTION: Glucose tolerance test (GTT) [only when billed with ICD-10-CM code Z13.1] ### CODE: 82947
+DESCRIPTION: Assay glucose blood quant [only when billed with ICD-10-CM code Z13.1] ### CODE: 84478
+DESCRIPTION: Assay of triglycerides [only when billed with ICD-10-CM code Z13.6]
+
+Tokens used for Tests: 213, 2, 215
+
+ ############################ RAG for Diagnosis ################################
+
+Human: Find the ICD-10 code corresponding to the following diagnosis: Benign prostatic hyperplasia (BPH) Instruction: Only use the following returned documents to get the ICD codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: N401
+DESCRIPTION: Benign prostatic hyperplasia with lower urinary tract symptoms ### CODE: N400
+DESCRIPTION: Benign prostatic hyperplasia without lower urinary tract symptoms ### CODE: D400
+DESCRIPTION: Neoplasm of uncertain behavior of prostate ### CODE: D291
+DESCRIPTION: Benign neoplasm of prostate
+
+Tokens used for Diagnosis: 166, 4, 170
+
+Human: Find the ICD-10 code corresponding to the following diagnosis: Coronary artery disease Instruction: Only use the following returned documents to get the ICD codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: I2584
+DESCRIPTION: Coronary atherosclerosis due to calcified coronary lesion ### CODE: I519
+DESCRIPTION: Heart disease; unspecified ### CODE: I25700
+DESCRIPTION: Atherosclerosis of coronary artery bypass graft(s); unspecified; with unstable angina pectoris ### CODE: I2081
+DESCRIPTION: Angina pectoris with coronary microvascular dysfunction
+
+Tokens used for Diagnosis: 172, 9, 181
+
+Human: Find the ICD-10 code corresponding to the following diagnosis: Diabetes mellitus Instruction: Only use the following returned documents to get the ICD codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: E0840
+DESCRIPTION: Diabetes mellitus due to underlying condition with diabetic neuropathy; unspecified ### CODE: E1040
+DESCRIPTION: Type 1 diabetes mellitus with diabetic neuropathy; unspecified ### CODE: E088
+DESCRIPTION: Diabetes mellitus due to underlying condition with unspecified complications ### CODE: E0841
+DESCRIPTION: Diabetes mellitus due to underlying condition with diabetic mononeuropathy
+
+Tokens used for Diagnosis: 170, 11, 181
+
+ ############################ RAG for Medications ################################
+
+Human: Find the NDC codes corresponding to the following drug: Flomax, 0.4 mg Instruction: Only use the following returned documents to get the NDC codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### DRUG: flomax
+NDC: 597005801 ### DRUG: FLOMAX
+NDC: 904640161 ### DRUG: FLOmax
+NDC: 51079029420 ### DRUG: flonas
+NDC: 54327099
+
+Tokens used for Drugs: 156, 12, 168
+
+ ############################ Finished ################################
+
+Total Tokens used: 3950, 595, 4545 ############################ RAG for Medications ################################
+
+Human: Find the NDC codes corresponding to the following drug: Lipitor, 40 mg Instruction: Only use the following returned documents to get the NDC codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### DRUG: Atorvastatin 40mg
+NDC: 51079045620 ### DRUG: atorvastatin 40 mg
+NDC: 68084058901 ### DRUG: Simvastatin 40 mg
+NDC: 51079045620 ### DRUG: Atorvastatin 40 mg
+NDC: 54868422900
+
+Tokens used for Drugs: 173, 14, 187
+
+ ############################ Finished ################################
+
+Total Tokens used: 4123, 609, 4732 ############################ RAG for Medications ################################
+
+Human: Find the NDC codes corresponding to the following drug: Aspirin,  Instruction: Only use the following returned documents to get the NDC codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### DRUG: Aspirin
+NDC: 63739002401 ### DRUG: Aspirin
+NDC: 904404073 ### DRUG: aspirin
+NDC: 63739052201 ### DRUG: Aspirin EC
+NDC: 17714001110
+
+Tokens used for Drugs: 152, 18, 170
+
+ ############################ Finished ################################
+
+Total Tokens used: 4275, 627, 4902 ############################ RAG for Medications ################################
+
+Human: Find the NDC codes corresponding to the following drug: Metoprolol,  Instruction: Only use the following returned documents to get the NDC codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### DRUG: Metoprolol
+NDC: 186109039 ### DRUG: Metoprolol
+NDC: 51079025520 ### DRUG: metoprolol
+NDC: 68084030301 ### DRUG: Metoprolol Tartrate
+NDC: 378003201
+
+Tokens used for Drugs: 163, 17, 180
+
+ ############################ Finished ################################
+
+Total Tokens used: 4438, 644, 5082 ############################ RAG for Medications ################################
+
+Human: Find the NDC codes corresponding to the following drug: Metformin, 1000 mg Instruction: Only use the following returned documents to get the NDC codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### DRUG: metformin
+NDC: 50268053115 ### DRUG: Metformin
+NDC: 51079097220 ### DRUG: MetFORMIN (Glucophage)
+NDC: 51079097220 ### DRUG: MetFORMIN
+NDC: 51079097220
+
+Tokens used for Drugs: 162, 9, 171
+
+ ############################ Finished ################################
+
+Total Tokens used: 4600, 653, 5253"
+"[doctor] so anna good to see you today so reading here in your appointment notes you were you were diagnosed with kidney stones from your your pcp and you currently have one and so they they had you come in so can you tell me what happened how's all that going for you
+[patient] sure i've been having some back pain on my right side it's been lasting for about a week now
+[doctor] okay
+[patient] and i also started to see some blood in my urine
+[doctor] okay so on the right side so does that pain does it move anywhere or is it just kinda stay in that that one area
+[patient] yeah it's moved down a little bit on to my right lower side a little bit
+[doctor] side okay so how would you describe the pain is it constant or is does it come and go
+[patient] it's pretty constant
+[doctor] okay did you notice any pain when you're urinating i know i know you say you you saw you see blood but any pain with that
+[patient] no no real pain when i'm when i'm peeing at all
+[doctor] okay so have you taken anything i know have you tried like azo or any of that to
+[patient] i took some ibuprofen that helped a little bit
+[doctor] okay
+[patient] but it still hurts even with ibuprofen
+[doctor] alright have you noticed any nausea vomiting fever chills
+[patient] i have n't thrown up but i felt a little bit nauseated
+[doctor] little nauseated yeah that's we expected so have you do you have a family history of kidney stones i know some people when they have them like their parents have them stuff but
+[patient] yeah my my dad had kidney stones i think he has passed a couple of them i'm not quite sure
+[doctor] alright and have you had any in the past or is this your first one
+[patient] this is my first time i've never had this before
+[doctor] okay alright so we'll do we'll do an exam on you just to check you out so i guess you were in pain and stuff over the over the easter easter break there that
+[patient] yeah yeah i had some pain over the weekend i saw my pediatrician this morning so they sent me over here they were concerned that i might have a kidney stone
+[doctor] okay so i'm guessing you did n't get to go find the eggs on the easter egg hunt because of the you were in pain
+[patient] not so much but i i got to participate a little bit i opened some eggs i just did n't go run around and find them
+[doctor] okay well i i'm lucky enough my friends had an adult easter hag hunt for me and so i was able to find a couple eggs yesterday myself so i i'm glad you were able to get a few of them alright so let's do that that physical exam on you so your vitals look good you do n't have any fever your blood pressure heart rate is fine so when i press here on your belly does that hurt
+[patient] a little bit yeah
+[doctor] a little bit alright so on your exam of your abdomen there is mild pain and tenderness to palpation of the abdomen there's no rebound or guarding there is cva located near your flank tenderness on the right so that means that everything looks good but you do have what seems to be some inflammation of your kidney okay so we we were able to get a ct of your your side and it showed that you do have a stone measuring point five centimeters in size and it's located in the proximal right ureter and so that's that duck that passes from your kidney to your bladder alright i do n't see any evidence of hydronephrosis so that means that there's not obstructing ureter causing swelling in your kidney which is which is pretty good so let's talk a little bit about my assessment and plan so you do have that kidney stone on the right so what i'm recommending is i want you to push fluids just to help facilitate you passing that stone alright have you been taking in have you been drinking enough water do you think so far
+[patient] probably not enough i drink some but
+[doctor] okay yeah i i want you to to drink try drink as much as possible just to see if we can get you hydrated and pass the stone what i'm gon na do is i'm gon na prescribe you ibuprofen eight hundred milligrams you can take that as needed for pain i know you said you were in that much pain just in case it does start to move you're in pain i want you to take the ibuprofen i'm also gon na give you a strainer for you to strain your pee so we can see you wan na know when that that stone does pass gon na order a bmp and a urinalysis and a urine culture and based on what the urinalysis shows we can decide if i can decide if i need to put you on antibiotics if you do have an infection of some kind and i wan na see you back in about a week to two weeks and if you're still having symptoms we can discuss further treatment such as a lithotripsy and it's it's a mainly minimally invasive procedure where we use shock waves to try to break up that stone but otherwise do you have any other questions for me
+[patient] no i do n't think so
+[doctor] alright so we will see you back in a week or two and i'll have my nurse come in with that prescription and hopefully with all the treatment you'll be able to pass the stone okay alright","HISTORY OF PRESENT ILLNESS
+
+Anna Diaz is a pleasant 29-year-old female who presents to the clinic today for the evaluation of right-sided back pain.
+
+For approximately 1 week, the patient has been experiencing constant right-sided back pain that radiates down to her lower right side, as well as hematuria and nausea. Her primary care physician was concerned for possible kidney stones and subsequently referred her here for further evaluation. She denies any pain with urination or vomiting, but admits that she has likely not been drinking enough water. The only treatment she has tried so far is ibuprofen with minimal pain relief. Although she denies any personal history of kidney stones prior to this occurrence, she explains that her father has had kidney stones in the past.
+
+REVIEW OF SYSTEMS
+
+Constitutional: Negative for fever.
+Gastrointestinal: Positive for nausea. Negative for vomiting.
+Genitourinary: Positive for hematuria
+
+VITALS
+
+Vitals are normal.
+Blood pressure is normal.
+Heart rate is normal.
+
+PHYSICAL EXAM
+
+GI/GU: Mild pain and tenderness to palpation of the abdomen. No rebound or guarding. There is CVA located near her flank with tenderness on the right.
+
+RESULTS
+
+CT scan of the abdomen was reviewed today and revealed a kidney stone measuring 0.5 cm in size, located in the proximal right ureter. There is no evidence of hydronephrosis.
+
+ASSESSMENT
+
+Kidney stone, right side.
+
+PLAN
+
+After reviewing the patient's examination and CT results, I discussed the findings with the patient. The CT scan revealed a 0.5 cm kidney stone in the proximal right ureter. I advised her to drink plenty of fluids, as much as possible, to help facilitate passing of the stone. She was provided with a urine strainer so she can see if and when the stone passes. Given that over-the-counter ibuprofen is not providing significant relief, we will send in a prescription for ibuprofen 800 mg to help with her pain. I'm also going to order a BMP, urinalysis, and a urine culture for further evaluation. Depending on the results of the urinalysis, we may need to start her on antibiotics. I want to see her back in 2 weeks. If she is still symptomatic at that time, we may need to consider further treatment such as a lithotripsy. This procedure was explained to the patient.
+
+INSTRUCTIONS
+
+Follow up in 2 weeks.","{'Subjective': {'Chief complaint': ['Back pain on the right side', 'Blood in urine'], 'History of present illness': ['Back pain lasting for about a week', 'Pain has moved to the right lower side', 'Constant pain', 'No pain during urination', 'Nausea but no vomiting', 'Family history of kidney stones (father)'], 'Past social history': ['First occurrence of kidney stones']}, 'Objective': {'Vital signs': ['No fever', 'Blood pressure and heart rate normal'], 'Physical exam findings': ['Mild pain and tenderness to palpation of the abdomen', 'CVA tenderness on the right', 'No rebound or guarding'], 'Laboratory data': [], 'Imaging results': ['CT scan shows a stone measuring 0.5 cm in the proximal right ureter', 'No evidence of hydronephrosis'], 'Other diagnostic data': []}, 'Assessment': {'Diagnosis': ['Kidney stone in the proximal right ureter', 'Mild kidney inflammation']}, 'Plan': {'Tests': ['BMP', 'Urinalysis', 'Urine culture'], 'Referrals': [], 'Medications': [{'Name': 'Ibuprofen', 'Dosage': '800 mg', 'Route': 'Oral', 'Frequency': 'As needed for pain'}], 'Instructions': ['Increase fluid intake to facilitate passing the stone', 'Use a strainer to collect urine to monitor for stone passage', 'Follow up in 1-2 weeks for reassessment']}, 'Codes': {'Tests': {'BMP': [], 'Urinalysis': [], 'Urine culture': []}, 'Medications': {'Ibuprofen, 800 mg': ['182181089', '904585361', '904585461']}, 'Diagnosis': {'Kidney stone in the proximal right ureter': ['N202'], 'Mild kidney inflammation': ['N/A']}}}","Tokens used for SOAP generation: 1562, 401, 1963
+
+ ############################ RAG for Tests ################################
+
+Human: Find the CPT codes corresponding to the following test: BMP Instruction: Only use the following returned documents to get the CPT codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: 71250
+DESCRIPTION: Ct thorax dx c- ### CODE: 0042T
+DESCRIPTION: Ct perfusion w/contrast cbf ### CODE: 74176
+DESCRIPTION: Ct abd & pelvis ### CODE: 71260
+DESCRIPTION: Ct thorax dx c+
+
+Tokens used for Tests: 149, 2, 151
+
+Human: Find the CPT codes corresponding to the following test: Urinalysis Instruction: Only use the following returned documents to get the CPT codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: P9612
+DESCRIPTION: Catheterize for urine spec ### CODE: G0480
+DESCRIPTION: Drug test def 1-7 classes ### CODE: P9615
+DESCRIPTION: Urine specimen collect mult ### CODE: G0482
+DESCRIPTION: Drug test def 15-21 classes
+
+Tokens used for Tests: 153, 2, 155
+
+Human: Find the CPT codes corresponding to the following test: Urine culture Instruction: Only use the following returned documents to get the CPT codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: P9612
+DESCRIPTION: Catheterize for urine spec ### CODE: P9615
+DESCRIPTION: Urine specimen collect mult ### CODE: U0002
+DESCRIPTION: Covid-19 lab test non-cdc ### CODE: 51798
+DESCRIPTION: Us urine capacity measure
+
+Tokens used for Tests: 149, 2, 151
+
+ ############################ RAG for Diagnosis ################################
+
+Human: Find the ICD-10 code corresponding to the following diagnosis: Kidney stone in the proximal right ureter Instruction: Only use the following returned documents to get the ICD codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: S37001D
+DESCRIPTION: Unspecified injury of right kidney; subsequent encounter ### CODE: N202
+DESCRIPTION: Calculus of kidney with calculus of ureter ### CODE: S37091D
+DESCRIPTION: Other injury of right kidney; subsequent encounter ### CODE: D4121
+DESCRIPTION: Neoplasm of uncertain behavior of right ureter
+
+Tokens used for Diagnosis: 169, 2, 171
+
+Human: Find the ICD-10 code corresponding to the following diagnosis: Mild kidney inflammation Instruction: Only use the following returned documents to get the ICD codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: N16
+DESCRIPTION: Renal tubulo-interstitial disorders in diseases classified elsewhere ### CODE: S37019D
+DESCRIPTION: Minor contusion of unspecified kidney; subsequent encounter ### CODE: N29
+DESCRIPTION: Other disorders of kidney and ureter in diseases classified elsewhere ### CODE: I1310
+DESCRIPTION: Hypertensive heart and chronic kidney disease without heart failure; with stage 1 through stage 4 chronic kidney disease; or unspecified chronic kidney disease
+
+Tokens used for Diagnosis: 187, 2, 189
+
+ ############################ RAG for Medications ################################
+
+Human: Find the NDC codes corresponding to the following drug: Ibuprofen, 800 mg Instruction: Only use the following returned documents to get the NDC codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### DRUG: Ibupro
+NDC: 904585361 ### DRUG: Ibuprofen
+NDC: 182181089 ### DRUG: ibuprofen
+NDC: 904585361 ### DRUG: Ibup
+NDC: 904585461
+
+Tokens used for Drugs: 151, 11, 162
+
+ ############################ Finished ################################
+
+Total Tokens used: 2520, 422, 2942"
+"[doctor] hey mason good to see you today so let's see you here in my notes for evaluation of kidney stones your your pcp said you had some kidney stones so you got a referral over so can you tell me a little bit about that you know what happened when did you first notice them
+[patient] yeah it was about you know about a week ago and i was working down in the the barn with the horses and you know i was moving some hay but i developed this real sudden onset of pain in my right back and i thought it initially it was from throwing hay but it i broke out into a sweat i got real nauseated and that's when i went and saw my doctor and he ordered a cat scan and said that i had a kidney stone but you know that's i i've never had that before my father's had them in the past but yeah so that's that's how that all happened
+[doctor] okay so you said you had the pain on the right hand side does it move anywhere or radiate
+[patient] well when i had it it would it radiated almost down to my groin
+[doctor] okay
+[patient] not the whole way down but almost to the groin and since then i have n't had any more pain and it's just been right about there
+[doctor] okay and is the pain constant or does it come and go
+[patient] well when i you know after i found out i had a disk a kidney stone it came a couple times but it did n't last as long no i've been i've been straining my urine they told me to pee in this little cup
+[doctor] mm-hmm
+[patient] and i've been straining my urine and you know i do n't see anything in there
+[doctor] okay have you noticed any blood in your urine i know you've been draining probably take a good look at it has it been darker than usual
+[patient] no not really not really darker
+[doctor] okay so have you had kidney stones before and then you said your father had them but
+[patient] i've never had a kidney stone my dad had them a lot but i've never had one
+[doctor] okay alright so let me do a quick exam of you your vital signs look good i do n't see any fever or your blood pressure and heart rate are fine so let me do a quick physical exam let me press here on your belly so on your examination of your abdomen there is no tenderness to to pain to palpation of the abdomen there is no rebound or guarding there is cva there is tenderness on the right side so that means
+[patient] i have a stroke
+[doctor] can you repeat that
+[patient] i did i have a stroke
+[doctor] no no no no no so that means like everything is normal right but i feel like you you you have some tenderness and inflammation over your kidney so that has to be expected because you do have a kidney stone so i did review the results of your ct and it does show a stone that's measuring point five centimeters located in the proximal right ureter and that's that duct that classes from your your kidney to down to your bladder there is no evidence of hydronephrosis that would mean that the stone is obstruct obstructing the ureter causing swelling in the kidney so there is there is no evidence of that so let's talk a little bit about my assessment and plan so you do have that kidney stone so right now i'm gon na recommend that we we have you push fluids just to help facilitate you urinating and passing the stone i'm gon na prescribe you some oxycodone five milligrams every six to eight hours for pain and you can continue to take tylenol between that for any breakthrough pain and you already have a strainer so that's good continue to use that and we can see continue that until the stone passes and i'm also gon na order a bmp and your urinalysis and urine culture just to make sure that everything else is okay with you and based on urinalysis we can see if we need to prescribe you antibiotics see if you have any type of infection i do want to see you back in about one to two weeks and hopefully by that time you you passed the stone but if not we can discuss further treatment lithotripsy it's like a shock wave kinda breaks up that stone it's not it's not that invasive procedure but we can just we can discuss that if it has n't passed in that one to two weeks that sound good
+[patient] that sounds perfect dear too
+[doctor] alright
+[patient] thank you document
+[doctor] so i will see you in a week or so and hopefully you've passed that stone and i'll send my nurse in with that prescription
+[patient] okay thank you
+[doctor] thanks","CHIEF COMPLAINT
+
+Kidney stones.
+
+HISTORY OF PRESENT ILLNESS
+
+Mason Ward is a pleasant 80-year-old male who presents to the clinic today for the evaluation of kidney stones. The patient was referred from his primary care physician. The onset of his pain began 1 week ago when he was in his barn moving hay when he had a sudden onset of right back pain. The patient initially thought his pain was due to throwing hay; however, he broke out into a sweat and became nauseated. He was seen by his primary care physician, who ordered a CT scan and told him that he had a kidney stone. He denies having kidney stones before, but states that his father has a history of kidney stones in the past. He explains that when he had pain, which has now resolved, it would radiate almost to his groin. The patient describes the pain as intermittent after he found out it was a kidney stone. He explains that he has been straining his urine, but has not seen anything. He denies any hematuria.
+
+REVIEW OF SYSTEMS
+
+Musculoskeletal: Reports right back pain.
+
+VITALS
+
+Vitals look good, blood pressure and hear rate are within normal limits. Temperature is within normal limits.
+
+PHYSICAL EXAM
+
+MSK: Examination of the abdomen: No pain with palpation of the abdomen. No rebound or guarding. There is CVA tenderness on the right side.
+
+RESULTS
+
+The CT scan of the abdomen revealed a stone that is measuring 0.5 cm located in the proximal right ureter. There is no evidence of hydronephrosis.
+
+ASSESSMENT
+
+Right kidney stone.
+
+PLAN
+
+We reviewed the patient's CT results in detail today. I have recommended that we treat the patient conservatively. I have prescribed the patient oxycodone 5 mg every 6 to 8 hours for pain. He may continue to take Tylenol between the oxycodone doses for any breakthrough pain. The patient should continue to use the strainer when he urinates until the stone passes. I have also recommended that we obtain a BMP, urinalysis, and urine culture to evaluate for any signs of infection.
+
+INSTRUCTIONS
+
+The patient will follow up with me in 1 to 2 weeks to check on his progress. If his symptoms have not improved, we will discuss further treatment options including lithotripsy.","{'Subjective': {'Chief complaint': ['Evaluation of kidney stones'], 'History of present illness': ['Sudden onset of right back pain about a week ago while working with horses', 'Pain radiated to the groin but not completely', 'Nausea and sweating during the episode', 'No current pain, but had intermittent pain after diagnosis', 'Straining urine with no visible stones or blood'], 'Past social history': ['No previous history of kidney stones', 'Family history of kidney stones (father)']}, 'Objective': {'Vital signs': ['Blood pressure and heart rate normal', 'No fever'], 'Physical exam findings': ['Tenderness on the right side (CVA tenderness)', 'No abdominal tenderness, rebound, or guarding'], 'Laboratory data': ['CT scan shows a 0.5 cm stone in the proximal right ureter', 'No evidence of hydronephrosis'], 'Imaging results': [], 'Other diagnostic data': []}, 'Assessment': {'Diagnosis': ['Kidney stone in proximal right ureter', 'No hydronephrosis']}, 'Plan': {'Tests': ['BMP', 'Urinalysis', 'Urine culture'], 'Referrals': [], 'Medications': [{'Name': 'Oxycodone', 'Dosage': '5 mg', 'Route': 'Oral', 'Frequency': 'Every 6 to 8 hours'}], 'Instructions': ['Push fluids to facilitate stone passage', 'Continue using urine strainer', 'Follow up in 1-2 weeks to reassess']}, 'Codes': {'Tests': {'BMP': [], 'Urinalysis': [], 'Urine culture': []}, 'Medications': {'Oxycodone, 5 mg': ['54368663', '66591091332']}, 'Diagnosis': {'Kidney stone in proximal right ureter': ['N202'], 'No hydronephrosis': ['N/A']}}}","Tokens used for SOAP generation: 1400, 407, 1807
+
+ ############################ RAG for Tests ################################
+
+Human: Find the CPT codes corresponding to the following test: BMP Instruction: Only use the following returned documents to get the CPT codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: 71250
+DESCRIPTION: Ct thorax dx c- ### CODE: 0042T
+DESCRIPTION: Ct perfusion w/contrast cbf ### CODE: 74176
+DESCRIPTION: Ct abd & pelvis ### CODE: 71260
+DESCRIPTION: Ct thorax dx c+
+
+Tokens used for Tests: 149, 2, 151
+
+Human: Find the CPT codes corresponding to the following test: Urinalysis Instruction: Only use the following returned documents to get the CPT codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: P9612
+DESCRIPTION: Catheterize for urine spec ### CODE: G0480
+DESCRIPTION: Drug test def 1-7 classes ### CODE: P9615
+DESCRIPTION: Urine specimen collect mult ### CODE: G0482
+DESCRIPTION: Drug test def 15-21 classes
+
+Tokens used for Tests: 153, 2, 155
+
+Human: Find the CPT codes corresponding to the following test: Urine culture Instruction: Only use the following returned documents to get the CPT codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: P9612
+DESCRIPTION: Catheterize for urine spec ### CODE: P9615
+DESCRIPTION: Urine specimen collect mult ### CODE: U0002
+DESCRIPTION: Covid-19 lab test non-cdc ### CODE: 51798
+DESCRIPTION: Us urine capacity measure
+
+Tokens used for Tests: 149, 2, 151
+
+ ############################ RAG for Diagnosis ################################
+
+Human: Find the ICD-10 code corresponding to the following diagnosis: Kidney stone in proximal right ureter Instruction: Only use the following returned documents to get the ICD codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: N202
+DESCRIPTION: Calculus of kidney with calculus of ureter ### CODE: S37001D
+DESCRIPTION: Unspecified injury of right kidney; subsequent encounter ### CODE: S37091D
+DESCRIPTION: Other injury of right kidney; subsequent encounter ### CODE: D4121
+DESCRIPTION: Neoplasm of uncertain behavior of right ureter
+
+Tokens used for Diagnosis: 168, 2, 170
+
+Human: Find the ICD-10 code corresponding to the following diagnosis: No hydronephrosis Instruction: Only use the following returned documents to get the ICD codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: N1330
+DESCRIPTION: Unspecified hydronephrosis ### CODE: N1339
+DESCRIPTION: Other hydronephrosis ### CODE: N131
+DESCRIPTION: Hydronephrosis with ureteral stricture; not elsewhere classified ### CODE: N130
+DESCRIPTION: Hydronephrosis with ureteropelvic junction obstruction
+
+Tokens used for Diagnosis: 165, 2, 167
+
+ ############################ RAG for Medications ################################
+
+Human: Find the NDC codes corresponding to the following drug: Oxycodone, 5 mg Instruction: Only use the following returned documents to get the NDC codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### DRUG: Oxycodone
+NDC: 54368663 ### DRUG: oxycodone
+NDC: 66591091332 ### DRUG: Oxycodone-Acetaminophen (5mg-325mg)
+NDC: 406051262 ### DRUG: oxycod
+NDC: 406055262
+
+Tokens used for Drugs: 169, 8, 177
+
+ ############################ Finished ################################
+
+Total Tokens used: 2353, 425, 2778"
+"[doctor] so sophia i see that you you hurt your knee tell me about what happened
+[patient] yeah i was jumping on my kid's trampoline and i could just slipped out from under me
+[doctor] my gosh one of those big trampolines in your back yard
+[patient] yeah a pretty big one
+[doctor] okay which knee was it
+[patient] my right knee
+[doctor] right knee okay and when did this happen
+[patient] about four days ago
+[doctor] great the weather was perfect this weekend so i'm glad you at least got outside sorry to hear you got hurt okay so your right knee did you did you feel it like pop or or snap or anything when you hurt it
+[patient] yeah i felt a little pop and then it swelled up really big afterward
+[doctor] okay did you try anything for the pain
+[patient] i took some ibuprofen and i put some ice on it
+[doctor] okay did that help
+[patient] a little bit but it's still really hard to get around
+[doctor] alright and have you have you been able to stand on it or does that hurt too much
+[patient] it hurts quite a bit to stand but i am able to put weight on it
+[doctor] okay alright and what part of the knee is it inside outside middle
+[patient] kind of that inside part of my kneecap
+[doctor] okay alright and okay so as long as you're here and then your primary care physician i'm looking through your chart and it looks like we're treating your diabetes so how you've been doing with your your diet overall are you are you keeping your sugars low
+[patient] it's going okay i i forget to check quite a bit though
+[doctor] sure
+[patient] on it
+[doctor] yeah i understand how has your diet been lately
+[patient] it's been pretty good
+[doctor] okay okay good good you know it's hard to stay away from the sugary foods sometimes i i enjoy ice cream regularly okay so let's do physical exam as long as you are here so i'm just gon na listen to your heart your heart sounds normal no murmurs or gallops listen to your lungs quick if you can take a deep breath lungs are clear that's good news let's take a look at that knee right knee looks like it definitely has some swelling i'm gon na do some maneuvers here does it hurt when i push you on the inside of the knee
+[patient] yeah that hurts
+[doctor] okay how about the outside
+[patient] a little bit but not as much
+[doctor] okay so some pain on palpation on the inside little bit of pain on the outside of the knee if i bend the knee back does that hurt
+[patient] yeah
+[doctor] how about when i extend it
+[patient] yeah that hurts
+[doctor] okay so little bit of limited range of motion as well as pain on both flexion and extension on the knee i'm gon na push on this a little bit looks like your mcmurray's test is negative just checking for a meniscus tear okay so let's talk a little bit about your plan what i am concerned about for your knee is it sounds like you have a torn or injured mcl i it's that inside tendon in your knee so i'm concerned about that since you're having trouble with weightbearing and you heard that pop so what i'm gon na do is i'm gon na put you in a straight leg brace and i'll prescribe some mobic you can start taking that as a a pain reliever and to try to get some of the swelling down i want you to ice your knee once an hour for about fifteen minutes but i'm also gon na send you out for an mri because we wan na make sure this is what happens see if there's any other damage to the knee does that sound good
+[patient] yeah that sounds great thank you
+[doctor] yeah and then for your diabetes as long as you're here it sounds like you're managing that pretty well but i do wan na get a recheck on your hemoglobin a1c and then i'm also i'm going to get a refill on the metformin that you have been taking five hundred milligrams so you can keep taking that as well so do you have any other questions for me
+[patient] no that's it thanks
+[doctor] alright well thank you hope that you feel better","CHIEF COMPLAINT
+
+Right knee pain.
+
+MEDICAL HISTORY
+
+The patient has a history of diabetes. She has been doing pretty good with her diet. She states that she forgets to check her sugars quite a bit.
+
+REVIEW OF SYSTEMS
+
+Musculoskeletal: Reports right knee pain and swelling.
+
+PHYSICAL EXAM
+
+Respiratory
+- Auscultation of Lungs: Clear bilaterally.
+
+Cardiovascular
+No murmurs, gallops.
+
+Musculoskeletal
+- Examination of the right knee: Some swelling present.
+- Palpation: Some pain to palpation on the medial aspect of the right knee, and a little bit of pain on the lateral aspect of the right knee.
+- Range of Motion: Limited range of motion as well as pain on both flexion and extension of the knee.
+- Special Testing:
+McMurray's Test: Negative.
+
+ASSESSMENT AND PLAN
+
+1. Right knee pain.
+- Medical Reasoning: I am concerned about a torn MCL due to pain on ambulation and trouble with weightbearing, as well as the pop she heard.
+- Patient Education and Counseling: We discussed treatment options today including bracing, anti-inflammatories, and icing. - Medical Treatment: I am going to put her in a straight leg brace and I will prescribe some Mobic. She can start taking that as a pain reliever and to try to get some of the swelling down. I want her to ice her knee once an hour for about 15 minutes.
+- Additional Testing: I am also going to send her out for an MRI.
+
+2. Type 2 diabetes.
+- Medical Reasoning: The patient states that her type 2 diabetes are well-managed.
+- Medical Treatment: I am also going to get a refill on the metformin that she has been taking 500 mg.
+- Additional Testing: We are going to recheck her hemoglobin A1c.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.","{'Subjective': {'Chief complaint': ['Right knee pain after jumping on a trampoline'], 'History of present illness': ['Injury occurred four days ago with a popping sensation and subsequent swelling', 'Pain is significant when standing, but weight-bearing is possible', 'Tried ibuprofen and ice with minimal relief'], 'Past social history': ['Diet is generally good, but patient forgets to check blood sugar levels regularly']}, 'Objective': {'Vital signs': [], 'Physical exam findings': ['Swelling noted in the right knee', 'Pain on palpation of the inside of the knee', 'Limited range of motion with pain on flexion and extension', ""Negative McMurray's test""], 'Laboratory data': [], 'Imaging results': [], 'Other diagnostic data': []}, 'Assessment': {'Diagnosis': ['Injury to the medial collateral ligament (MCL) of the right knee', 'Diabetes management requiring follow-up']}, 'Plan': {'Tests': ['MRI of the right knee to assess for additional damage'], 'Referrals': [], 'Medications': [{'Name': 'Mobic', 'Dosage': 'Not specified', 'Route': 'Oral', 'Frequency': 'As needed for pain'}, {'Name': 'Metformin', 'Dosage': '500 mg', 'Route': 'Oral', 'Frequency': 'Continue as prescribed'}], 'Instructions': ['Use a straight leg brace for the right knee', 'Ice the knee once an hour for 15 minutes', 'Recheck hemoglobin A1c']}, 'Codes': {'Tests': {'MRI of the right knee to assess for additional damage': []}, 'Medications': {'Mobic, Not specified': ['597002901'], 'Metformin, 500 mg': ['50268053115', '51079097220']}, 'Diagnosis': {'Injury to the medial collateral ligament (MCL) of the right knee': ['S83411D', 'S83411S', 'M23631', 'S83419D'], 'Diabetes management requiring follow-up': ['N/A']}}}","Tokens used for SOAP generation: 1334, 402, 1736
+
+ ############################ RAG for Tests ################################
+
+Human: Find the CPT codes corresponding to the following test: MRI of the right knee to assess for additional damage Instruction: Only use the following returned documents to get the CPT codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: 73562
+DESCRIPTION: X-ray exam of knee 3 ### CODE: 73564
+DESCRIPTION: X-ray exam knee 4 or more ### CODE: 73565
+DESCRIPTION: X-ray exam of knees ### CODE: 73560
+DESCRIPTION: X-ray exam of knee 1 or 2
+
+Tokens used for Tests: 163, 2, 165
+
+ ############################ RAG for Diagnosis ################################
+
+Human: Find the ICD-10 code corresponding to the following diagnosis: Injury to the medial collateral ligament (MCL) of the right knee Instruction: Only use the following returned documents to get the ICD codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: M23631
+DESCRIPTION: Other spontaneous disruption of medial collateral ligament of right knee ### CODE: S83411D
+DESCRIPTION: Sprain of medial collateral ligament of right knee; subsequent encounter ### CODE: S83411S
+DESCRIPTION: Sprain of medial collateral ligament of right knee; sequela ### CODE: S83419D
+DESCRIPTION: Sprain of medial collateral ligament of unspecified knee; subsequent encounter
+
+Tokens used for Diagnosis: 188, 15, 203
+
+Human: Find the ICD-10 code corresponding to the following diagnosis: Diabetes management requiring follow-up Instruction: Only use the following returned documents to get the ICD codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### CODE: E088
+DESCRIPTION: Diabetes mellitus due to underlying condition with unspecified complications ### CODE: E0840
+DESCRIPTION: Diabetes mellitus due to underlying condition with diabetic neuropathy; unspecified ### CODE: E0869
+DESCRIPTION: Diabetes mellitus due to underlying condition with other specified complication ### CODE: E138
+DESCRIPTION: Other specified diabetes mellitus with unspecified complications
+
+Tokens used for Diagnosis: 166, 2, 168
+
+ ############################ RAG for Medications ################################
+
+Human: Find the NDC codes corresponding to the following drug: Mobic, Not specified Instruction: Only use the following returned documents to get the NDC codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### DRUG: Mobic
+NDC: 597002901 ### DRUG: Code
+NDC: 54815624 ### DRUG: modaf
+NDC: 51079056103 ### DRUG: *nf*
+NDC: 78017605
+
+Tokens used for Drugs: 150, 3, 153
+
+ ############################ Finished ################################
+
+Total Tokens used: 2001, 424, 2425 ############################ RAG for Medications ################################
+
+Human: Find the NDC codes corresponding to the following drug: Metformin, 500 mg Instruction: Only use the following returned documents to get the NDC codes. Ensure matching is case-insensitive. If there are multiple codes possible, return all of them. If no useful codes are found, just return 'N/A'. Output the codes as a comma-separated list in order of confidence without spaces. Here are the relevant documents:  ### DRUG: metformin
+NDC: 50268053115 ### DRUG: Metformin
+NDC: 51079097220 ### DRUG: MetFORMIN (Glucophage)
+NDC: 51079097220 ### DRUG: MetFORMIN
+NDC: 51079097220
+
+Tokens used for Drugs: 161, 9, 170
+
+ ############################ Finished ################################
+
+Total Tokens used: 2162, 433, 2595"
