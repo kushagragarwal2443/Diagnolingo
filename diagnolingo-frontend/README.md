@@ -1,5 +1,7 @@
 # Readme
 
+- Ensure that "secrets" directory exists
+
 ## Logging Legend
 
 - debug: debug
