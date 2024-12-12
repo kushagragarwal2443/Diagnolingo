@@ -1,7 +1,8 @@
 # Diagnolingo  
 
-**Authors:** Kushagra Agarwal and Eric Nyberg  
-**Affiliation:** School of Computer Science, Carnegie Mellon University  
+Kushagra Agarwal and Prof. Eric Nyberg  
+Carnegie Mellon University  
+
 **Contact:** kushagragarwal2443@gmail.com 
 
 ---
